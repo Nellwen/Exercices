@@ -27,7 +27,7 @@ Temps total 1h20
 ## React (2h45)
 
 ### 1ère étape (20 min)
-Lecture de l'exercice, réflexion sur la solution et sa réalisation, ainsi que la mise en forme des différentes pages. J'ai décidé de stocker les informations en localStorage pour l'exercice, afin de simuler une vrai base de donnée qui serait relié à un backend. J'ai prie le partie de réaliser 3 petites pages (Home, Event List, Add an event), avec bootstrap pour aller plus vite.
+Lecture de l'exercice, réflexion sur la solution et sa réalisation, ainsi que la mise en forme des différentes pages. J'ai décidé de stocker les informations en localStorage pour l'exercice, afin de simuler une vraie base de données qui serait reliée à un backend. J'ai pri le parti de réaliser 3 petites pages (Home, Event List, Add en event), avec bootstrap pour aller plus vite.
 
 ### 2ème étape (35 min)
 Création de l'app React, installation des packages nécessaires, création de l'arborescence, et mise en place du routage
